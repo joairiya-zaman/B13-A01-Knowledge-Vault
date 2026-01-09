@@ -166,6 +166,98 @@ a .btn {
     margin-top: 16px;
 }
 
+#notes {
+  
+    width: 1600px;
+    height: 448px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 44;
+    padding: 120px;
+
+
+}
+
+.notes-container {
+    margin: auto;
+     align-items: center;
+}
+
+.section-heading h1 {
+    font-style: Bold;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    text-align: center;
+}
+
+.section-heading p {
+    color: #627382;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    margin-bottom: 44px;
+    align-items: center;
+    padding-top: 16px;
+}
+
+#notes .notes-container .card-box {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    align-items: center;
+
+}
+
+
+
+.card-box .card {
+    width: 322px;
+    height: 300px;
+    padding: 24px;
+    text-align: center;
+    box-shadow: 0 5px 50px 0 #62738223;
+    padding-top: 70px;
+
+}
+
+.card-box .card img {
+    background-color: #f95555;
+    max-width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 14px;
+    align-items: center;
+    margin: auto;
+}
+
+.card-box .card h3 {
+    width: 274px;
+    height: 29px;
+    color: #001931;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    text-align: center;
+    margin-top: 16px;
+}
+
+.card-box .card p {
+    width: 274px;
+    height: 40px;
+    color: #627382;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 16px;
+
+}
+
 
 
 
