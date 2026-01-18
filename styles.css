@@ -117,6 +117,7 @@ a .btn {
     background-repeat: no-repeat;
     height: 674px;
     text-align: center;
+    width: 1600px;
 }
 
 .hero-content {
@@ -178,7 +179,6 @@ a .btn {
     gap: 44;
     padding: 120px;
 
-
 }
 
 .notes-container {
@@ -213,8 +213,6 @@ a .btn {
 
 }
 
-
-
 .card-box .card {
     width: 322px;
     height: 300px;
@@ -244,8 +242,6 @@ a .btn {
     line-height: 29px;
     text-align: center;
     margin: auto 0;
-
-
 }
 
 .card-box .card p {
@@ -377,34 +373,32 @@ a .btn {
 }
 
 #think-section .think-container h1 {
-width: 1280px;
-height: 48px;
-font-style: Bold;
-font-size: 40px;
-font-weight: 700;
-line-height: 48px;
-text-align: center;
-margin-bottom: 16px;
+    width: 1280px;
+    height: 48px;
+    font-style: Bold;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    margin-bottom: 16px;
 }
 
 
 #think-section .think-container p {
     color:#627382;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-text-align: center;
-width: 1280px;
-height: 48px;
-margin-bottom: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    width: 1280px;
+    height: 48px;
+    margin-bottom: 24px;
 
 }
 
 #think-section .think-container div {
     margin-bottom: 16px;
 }
-
-
 
 
 #footer-content {
@@ -441,15 +435,13 @@ margin-bottom: 24px;
 
 .copyright {
     width: 1600px;
-    height: 24px;
+    height: 25px;
     color: white;
     font-size: 16px;
     font-weight: 200;
-    padding: 20px;
-    line-height: 24px;
+    padding: 30px;
+    line-height: 30px;
     text-align: center;
-    border-top: 1px solid #2e4779;
     background-color: #001931;
-    
 
 }
